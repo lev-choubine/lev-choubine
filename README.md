@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I started coding in the summer of 2020 with CodeCademy then eventually moved on to General Assembly to complete the 480 hour Software Engineering Immersive course. I am interested in languages and music - so you can spot those themes through out the applications. 
+
+[My Portfolio]: https://levs-portfolio.herokuapp.com/
 <!--
 **lev-choubine/lev-choubine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
