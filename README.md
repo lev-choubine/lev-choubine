@@ -1,15 +1,19 @@
 Nice To Meet You!
 
-I started coding in the summer of 2020 with CodeCademy then eventually moved on to General Assembly to complete the 480 hour Software Engineering Immersive course. I am interested in languages and music - so you can spot those themes through out the applications. 
+I started coding in the summer of 2020 with CodeCademy then eventually moved on to General Assembly to complete the 480 hour Software Engineering Immersive course. Spent over 10 years in the restaurant industry prior to that.
 
-Skills
-• Languages: HTML5, CSS3, JavaScript, Python
+I enjoy building  dynamic applications in React. My strong suit is working with APIs and front end logic.
 
-• Tools: Git, Github, Heroku, Object-Oriented Programming (OOP), Algorithms, Data Structures, REST API, responsive design
+In my spare time I enjoy listening to math rock and studying Japanese. 
 
-• Frameworks & Libraries: Node.js, Express.js, React, Bootstrap, Django
+**Skills**<br/>
+• **Languages**: HTML5, CSS3, JavaScript, Python
 
-• Databases: MongoDB, Mongoose, Mongo Atlas, PostgreSQL
+• **Tools**: Git, Github, Heroku, Object-Oriented Programming (OOP), Algorithms, Data Structures, REST API, responsive design
+
+• **Frameworks** & Libraries: Node.js, Express.js, React, Bootstrap, Django
+
+• **Databases**: MongoDB, Mongoose, Mongo Atlas, PostgreSQL
 
 [My Portfolio](https://levs-portfolio.herokuapp.com)
 <!--
