@@ -15,7 +15,7 @@ In my spare time I enjoy listening to math rock and studying Japanese.
 
 • **Databases**: MongoDB, Mongoose, Mongo Atlas, PostgreSQL
 
-[My Portfolio](https://levs-portfolio.herokuapp.com)
+[My Portfolio](https://levs-portfolio.herokuapp.com)</br></br>
 [LinkedIn](https://www.linkedin.com/in/lev-choubine)
 <!--
 **lev-choubine/lev-choubine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
